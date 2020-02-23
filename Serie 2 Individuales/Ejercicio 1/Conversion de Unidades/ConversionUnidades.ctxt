@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=ConversionUnidades
+comment0.text=\r\n\ ConversionUnidades\r\n\ \r\n\ JOHN\ GAMBOA\r\n\ @version\ 1.0\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=numero
+comment2.target=double\ calculoPie(double)
+comment3.params=numero
+comment3.target=double\ calculoCm(double)
+comment4.params=numero
+comment4.target=double\ calculoLegua(double)
+comment5.params=numero
+comment5.target=double\ calculoYarda(double)
+numComments=6
