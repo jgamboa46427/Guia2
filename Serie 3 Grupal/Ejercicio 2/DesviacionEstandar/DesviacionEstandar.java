@@ -3,7 +3,7 @@ import java.util.*;
 /**
  * DesviacionEstandar
  * 
- * JOHN GAMBOA 
+ * JOHN GAMBOA , HERNAN SEGURA
  * 1.0
  */
 public class DesviacionEstandar
