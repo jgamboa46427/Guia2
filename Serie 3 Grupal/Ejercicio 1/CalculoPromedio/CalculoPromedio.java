@@ -3,7 +3,7 @@ import java.util.Scanner;
 /**
  * CalculoPromedio
  * 
- * JHON GAMBOA 
+ * JHON GAMBOA , HERNAN SEGURA
  * 1.0
  */
 public class CalculoPromedio
